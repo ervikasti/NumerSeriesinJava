@@ -1,0 +1,23 @@
+import java.util.Scanner;
+class A57
+{
+	public static void main(String[] args) 
+	{
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter  valUE after press enter");
+		int speed = s.nextInt();
+		System.out.println("eNETR Birthday tRUE OR fALSE");
+		boolean birthday = s.nextBoolean();
+		if (birthday)
+		{speed = speed-8;
+		}
+		if (speed<60)
+		{System.out.println("No Ticket");
+		}
+		else if( speed>61 && speed<80){
+			System.out.println("SMall Ticket");
+		}
+		else {System.out.println("Big TIcket");
+		}
+	}
+}
