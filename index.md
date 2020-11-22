@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/ervikasti/NumerSeriesinJav
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is in the Respository for you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Respository contain programing of Strong Numbers, Special Number, ArmStrong Number, Pell Series, Prime number and many more...... 
 
 ```markdown
 Syntax highlighted code block
